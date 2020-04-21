@@ -1,2 +1,2 @@
 # devbrett.github.io
-Bretts website on github
+Bretts website on GitHub
